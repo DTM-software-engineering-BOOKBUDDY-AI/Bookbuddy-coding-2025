@@ -1,0 +1,14 @@
+pytest==7.4.3
+flask==2.2.5
+werkzeug==2.2.3
+flask-sqlalchemy==3.0.3
+flask-migrate==4.0.4
+flask-login==0.6.2
+flask-wtf==1.1.1
+wtforms==3.0.1
+email_validator==2.0.0
+python-dotenv==1.0.0
+bleach==6.0.0
+pytest-flask==1.2.0
+pytest-cov==4.1.0
+requests-mock==1.11.0 
